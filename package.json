@@ -9,6 +9,6 @@
     "test": "node --test"
   },
   "keywords": [],
-  "author": "Team (Zack, Claude, Gemini)",
+  "author": "Team (Zack, Claude, Gemini, Codex)",
   "license": "MIT"
 }

@@ -7,6 +7,7 @@ A simple Node.js API built by a collaborative team for DevOps and cloud practice
 - **Zack** - DevOps / Cloud
 - **Claude** - Developer
 - **Gemini** - QA / Tester
+- **Codex** - Workflow / Security
 
 ## API Endpoints
 
