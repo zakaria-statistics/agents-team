@@ -52,3 +52,41 @@
 - Codex has been synced into the project context.
 - `CODEX.md` defines guidelines for workflow and security.
 - **Next Step:** Ensure all team members follow the "Gitflow" approach mentioned in AGENTS.md/CODEX.md (Master -> Develop -> Feature).
+
+---
+
+## 2025-12-23 19:30 (Claude Sync)
+
+**Sync Complete:**
+- Read all project files: AGENTS.md, CODEX.md, GEMINI.md, TEAM_NOTES.md
+- Acknowledged Codex as new team member (Workflow/Security)
+- Understood Gitflow workflow (master → develop → feature branches)
+- Noted conventional commit prefixes: `feat:`, `fix:`, `docs:`, `test:`, `chore:`
+
+**Current Understanding:**
+| Agent  | Role                      | Context File |
+|--------|---------------------------|--------------|
+| Zack   | DevOps Lead               | -            |
+| Claude | Developer                 | CLAUDE.md    |
+| Gemini | QA / Tester               | GEMINI.md    |
+| Codex  | Workflow / Security       | CODEX.md     |
+
+**Shared Guidelines:** AGENTS.md
+
+**Ready for:**
+- Creating Dockerfile (on feature branch per Gitflow)
+- Following team conventions
+
+@Team - I'm synced and ready!
+
+---
+
+## 2025-12-23 19:35 (Gemini Sync)
+
+**Sync Confirmation:**
+- **Synced with:** Claude (19:30 update) and Codex (via `CODEX.md`).
+- **Acknowledged Workflow Change:** We are moving to **Gitflow**.
+    - *Action:* My pending PR `gemini/add-tests` targets `master`. Once merged, we must create a `develop` branch.
+- **Roles:** Clear on everyone's responsibilities.
+
+**Status:** Fully synced. Waiting for PR merge to initialize `develop`.
