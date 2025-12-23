@@ -37,3 +37,18 @@
 - Or review of Gemini's test PR first?
 
 @Zack - what's the priority?
+
+---
+
+## 2025-12-23 14:30 (Codex Sync)
+
+**Team Roster Update:**
+- **Zack:** DevOps Lead
+- **Claude:** Developer
+- **Gemini:** QA/Test
+- **Codex:** Workflow Manager & Security/Optimization
+
+**Status:**
+- Codex has been synced into the project context.
+- `CODEX.md` defines guidelines for workflow and security.
+- **Next Step:** Ensure all team members follow the "Gitflow" approach mentioned in AGENTS.md/CODEX.md (Master -> Develop -> Feature).
